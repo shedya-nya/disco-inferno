@@ -6,16 +6,16 @@
   font-family: "Montserrat", serif;
 }
 .container{
-  max-width: 1050px;
+  max-width: 362px;
   margin: 0 auto;
 }
 .icons{
-
-}
-.groupicons{
+  margin: 0 auto;
+  width: 414px;
 }
 ul{
   display: flex;
+  flex-direction: column;
   justify-content: space-between;
   gap: 30px;
   list-style: none;
